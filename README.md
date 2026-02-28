@@ -1,4 +1,4 @@
-# S4 — Structured State Spaces for Sequence Modeling
+# Structured State Spaces for Sequence Modeling
 
 A self-contained PyTorch implementation of **S4** and **S4D** from:
 
